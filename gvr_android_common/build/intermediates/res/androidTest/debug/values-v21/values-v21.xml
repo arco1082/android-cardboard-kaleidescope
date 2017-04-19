@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/Users/armando_contreras/src/android/cardboard/Kaleidescope/gvr_android_common/build/intermediates/bundles/debug/res/values-v21/values-v21.xml -->
+    <eat-comment/>
+    <style name="CardboardDialogTheme" parent="@android:style/Theme.Material.Light.Dialog"/>
+</resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/Users/armando_contreras/src/android/cardboard/Kaleidescope/gvr_android_common/build/intermediates/bundles/debug/res/values-v19/values-v19.xml -->
+    <eat-comment/>
+    <dimen name="transition_bottom_bar_height">56dip</dimen>
+</resources>

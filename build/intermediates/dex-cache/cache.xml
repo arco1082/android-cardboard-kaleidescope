@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/armando_contreras/src/android/cardboard/Kaleidescope/Kaleidescope/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="/Users/armando_contreras/src/android/cardboard/Kaleidescope/Kaleidescope/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_76ca4683d2e4ca6e7e1e175332e7dbb051ac15ab/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/armando_contreras/src/android/cardboard/Kaleidescope/Kaleidescope/libs/gvr_audio.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f23fafd64a2733554059bce0d81cca8239031f16">
+        <dex dex="/Users/armando_contreras/src/android/cardboard/Kaleidescope/Kaleidescope/build/intermediates/transforms/dex/debug/folders/1000/2/gvr_audio_880a777f11a184ee89bf40a9e48f1e1200a5802f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/armando_contreras/src/android/cardboard/Kaleidescope/gvr_android_common/build/intermediates/bundles/default/libs/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2edc039e910d3b832f8d72cd665bd80337df69ca">
+        <dex dex="/Users/armando_contreras/src/android/cardboard/Kaleidescope/Kaleidescope/build/intermediates/transforms/dex/debug/folders/1000/8/classes_324ba1579bd071f4e5fc25191e859893559ae15d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/armando_contreras/src/android/cardboard/Kaleidescope/Kaleidescope/libs/unity-classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9b2035e1569b39aa1dd2671859763b96454dbaca">
+        <dex dex="/Users/armando_contreras/src/android/cardboard/Kaleidescope/Kaleidescope/build/intermediates/transforms/dex/debug/folders/1000/2/unity-classes_5d874cd6a44825fe7036345938d74e6286aae0d0/classes.dex" />
+    </item>
+    <item
+        jar="/Users/armando_contreras/src/android/cardboard/Kaleidescope/Kaleidescope/libs/unity-classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9b2035e1569b39aa1dd2671859763b96454dbaca">
+        <dex dex="/Users/armando_contreras/src/android/cardboard/Kaleidescope/Kaleidescope/build/intermediates/transforms/dex/debug/folders/1000/2/unity-classes_5d874cd6a44825fe7036345938d74e6286aae0d0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/armando_contreras/src/android/cardboard/Kaleidescope/Kaleidescope/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="795ac8a40d02d1d9b99ca8740ed170bc4cfa3af4">
+        <dex dex="/Users/armando_contreras/src/android/cardboard/Kaleidescope/Kaleidescope/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_1ff39197149a8b00975a6c3c18b08c000fa407fa/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/armando_contreras/src/android/cardboard/Kaleidescope/unitygvractivity/build/intermediates/bundles/default/libs/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cd698c900cafb1f9c9e4d32c343bce779b60be2d">
+        <dex dex="/Users/armando_contreras/src/android/cardboard/Kaleidescope/Kaleidescope/build/intermediates/transforms/dex/debug/folders/1000/8/classes_2d908e8c47743b484fbac9f454d3973fc8ac4bc4/classes.dex" />
+    </item>
+    <item
+        jar="/Users/armando_contreras/src/android/cardboard/Kaleidescope/Kaleidescope/libs/gvr_audio.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f23fafd64a2733554059bce0d81cca8239031f16">
+        <dex dex="/Users/armando_contreras/src/android/cardboard/Kaleidescope/Kaleidescope/build/intermediates/transforms/dex/debug/folders/1000/2/gvr_audio_880a777f11a184ee89bf40a9e48f1e1200a5802f/classes.dex" />
+    </item>
+
+</items>

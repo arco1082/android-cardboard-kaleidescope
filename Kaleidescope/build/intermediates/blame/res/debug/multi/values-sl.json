@@ -1,0 +1,620 @@
+[
+    {
+        "outputFile": "/Users/armando_contreras/src/android/cardboard/Kaleidescope/Kaleidescope/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sl/values-sl.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endColumn": 95,
+                    "endOffset": 196
+                },
+                "from": {
+                    "file": "/Users/armando_contreras/src/android/cardboard/Kaleidescope/gvr_android_common/build/intermediates/bundles/default/res/values-sl/values-sl.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 105,
+                        "endColumn": 95,
+                        "endOffset": 196
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 201,
+                    "endColumn": 80,
+                    "endOffset": 277
+                },
+                "from": {
+                    "file": "/Users/armando_contreras/src/android/cardboard/Kaleidescope/gvr_android_common/build/intermediates/bundles/default/res/values-sl/values-sl.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 201,
+                        "endColumn": 80,
+                        "endOffset": 277
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 282,
+                    "endColumn": 157,
+                    "endOffset": 435
+                },
+                "from": {
+                    "file": "/Users/armando_contreras/src/android/cardboard/Kaleidescope/gvr_android_common/build/intermediates/bundles/default/res/values-sl/values-sl.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 282,
+                        "endColumn": 157,
+                        "endOffset": 435
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 440,
+                    "endColumn": 131,
+                    "endOffset": 567
+                },
+                "from": {
+                    "file": "/Users/armando_contreras/src/android/cardboard/Kaleidescope/gvr_android_common/build/intermediates/bundles/default/res/values-sl/values-sl.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 440,
+                        "endColumn": 131,
+                        "endOffset": 567
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 572,
+                    "endColumn": 85,
+                    "endOffset": 653
+                },
+                "from": {
+                    "file": "/Users/armando_contreras/src/android/cardboard/Kaleidescope/gvr_android_common/build/intermediates/bundles/default/res/values-sl/values-sl.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 572,
+                        "endColumn": 85,
+                        "endOffset": 653
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 658,
+                    "endColumn": 94,
+                    "endOffset": 748
+                },
+                "from": {
+                    "file": "/Users/armando_contreras/src/android/cardboard/Kaleidescope/gvr_android_common/build/intermediates/bundles/default/res/values-sl/values-sl.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 658,
+                        "endColumn": 94,
+                        "endOffset": 748
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 753,
+                    "endColumn": 70,
+                    "endOffset": 819
+                },
+                "from": {
+                    "file": "/Users/armando_contreras/src/android/cardboard/Kaleidescope/gvr_android_common/build/intermediates/bundles/default/res/values-sl/values-sl.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 753,
+                        "endColumn": 70,
+                        "endOffset": 819
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 824,
+                    "endColumn": 124,
+                    "endOffset": 944
+                },
+                "from": {
+                    "file": "/Users/armando_contreras/src/android/cardboard/Kaleidescope/gvr_android_common/build/intermediates/bundles/default/res/values-sl/values-sl.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 824,
+                        "endColumn": 124,
+                        "endOffset": 944
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 949,
+                    "endColumn": 134,
+                    "endOffset": 1079
+                },
+                "from": {
+                    "file": "/Users/armando_contreras/src/android/cardboard/Kaleidescope/gvr_android_common/build/intermediates/bundles/default/res/values-sl/values-sl.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 949,
+                        "endColumn": 134,
+                        "endOffset": 1079
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 1084,
+                    "endColumn": 164,
+                    "endOffset": 1244
+                },
+                "from": {
+                    "file": "/Users/armando_contreras/src/android/cardboard/Kaleidescope/gvr_android_common/build/intermediates/bundles/default/res/values-sl/values-sl.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 1084,
+                        "endColumn": 164,
+                        "endOffset": 1244
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 1249,
+                    "endColumn": 104,
+                    "endOffset": 1349
+                },
+                "from": {
+                    "file": "/Users/armando_contreras/src/android/cardboard/Kaleidescope/gvr_android_common/build/intermediates/bundles/default/res/values-sl/values-sl.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1249,
+                        "endColumn": 104,
+                        "endOffset": 1349
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 1354,
+                    "endColumn": 78,
+                    "endOffset": 1428
+                },
+                "from": {
+                    "file": "/Users/armando_contreras/src/android/cardboard/Kaleidescope/gvr_android_common/build/intermediates/bundles/default/res/values-sl/values-sl.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1354,
+                        "endColumn": 78,
+                        "endOffset": 1428
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1433,
+                    "endColumn": 87,
+                    "endOffset": 1516
+                },
+                "from": {
+                    "file": "/Users/armando_contreras/src/android/cardboard/Kaleidescope/gvr_android_common/build/intermediates/bundles/default/res/values-sl/values-sl.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1433,
+                        "endColumn": 87,
+                        "endOffset": 1516
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1521,
+                    "endColumn": 99,
+                    "endOffset": 1616
+                },
+                "from": {
+                    "file": "/Users/armando_contreras/src/android/cardboard/Kaleidescope/gvr_android_common/build/intermediates/bundles/default/res/values-sl/values-sl.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1521,
+                        "endColumn": 99,
+                        "endOffset": 1616
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1621,
+                    "endColumn": 119,
+                    "endOffset": 1736
+                },
+                "from": {
+                    "file": "/Users/armando_contreras/src/android/cardboard/Kaleidescope/gvr_android_common/build/intermediates/bundles/default/res/values-sl/values-sl.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1621,
+                        "endColumn": 119,
+                        "endOffset": 1736
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1741,
+                    "endColumn": 177,
+                    "endOffset": 1914
+                },
+                "from": {
+                    "file": "/Users/armando_contreras/src/android/cardboard/Kaleidescope/gvr_android_common/build/intermediates/bundles/default/res/values-sl/values-sl.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1741,
+                        "endColumn": 177,
+                        "endOffset": 1914
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/Users/armando_contreras/src/android/cardboard/Kaleidescope/Kaleidescope/build/intermediates/res/merged/debug/values-sl/values-sl.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endColumn": 95,
+                    "endOffset": 196
+                },
+                "from": {
+                    "file": "/Users/armando_contreras/src/android/cardboard/Kaleidescope/Kaleidescope/build/intermediates/exploded-aar/Kaleidescope/gvr_android_common/unspecified/res/values-sl/values-sl.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 105,
+                        "endColumn": 95,
+                        "endOffset": 196
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 201,
+                    "endColumn": 80,
+                    "endOffset": 277
+                },
+                "from": {
+                    "file": "/Users/armando_contreras/src/android/cardboard/Kaleidescope/Kaleidescope/build/intermediates/exploded-aar/Kaleidescope/gvr_android_common/unspecified/res/values-sl/values-sl.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 201,
+                        "endColumn": 80,
+                        "endOffset": 277
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 282,
+                    "endColumn": 157,
+                    "endOffset": 435
+                },
+                "from": {
+                    "file": "/Users/armando_contreras/src/android/cardboard/Kaleidescope/Kaleidescope/build/intermediates/exploded-aar/Kaleidescope/gvr_android_common/unspecified/res/values-sl/values-sl.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 282,
+                        "endColumn": 157,
+                        "endOffset": 435
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 440,
+                    "endColumn": 131,
+                    "endOffset": 567
+                },
+                "from": {
+                    "file": "/Users/armando_contreras/src/android/cardboard/Kaleidescope/Kaleidescope/build/intermediates/exploded-aar/Kaleidescope/gvr_android_common/unspecified/res/values-sl/values-sl.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 440,
+                        "endColumn": 131,
+                        "endOffset": 567
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 572,
+                    "endColumn": 85,
+                    "endOffset": 653
+                },
+                "from": {
+                    "file": "/Users/armando_contreras/src/android/cardboard/Kaleidescope/Kaleidescope/build/intermediates/exploded-aar/Kaleidescope/gvr_android_common/unspecified/res/values-sl/values-sl.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 572,
+                        "endColumn": 85,
+                        "endOffset": 653
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 658,
+                    "endColumn": 94,
+                    "endOffset": 748
+                },
+                "from": {
+                    "file": "/Users/armando_contreras/src/android/cardboard/Kaleidescope/Kaleidescope/build/intermediates/exploded-aar/Kaleidescope/gvr_android_common/unspecified/res/values-sl/values-sl.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 658,
+                        "endColumn": 94,
+                        "endOffset": 748
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 753,
+                    "endColumn": 70,
+                    "endOffset": 819
+                },
+                "from": {
+                    "file": "/Users/armando_contreras/src/android/cardboard/Kaleidescope/Kaleidescope/build/intermediates/exploded-aar/Kaleidescope/gvr_android_common/unspecified/res/values-sl/values-sl.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 753,
+                        "endColumn": 70,
+                        "endOffset": 819
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 824,
+                    "endColumn": 124,
+                    "endOffset": 944
+                },
+                "from": {
+                    "file": "/Users/armando_contreras/src/android/cardboard/Kaleidescope/Kaleidescope/build/intermediates/exploded-aar/Kaleidescope/gvr_android_common/unspecified/res/values-sl/values-sl.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 824,
+                        "endColumn": 124,
+                        "endOffset": 944
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 949,
+                    "endColumn": 134,
+                    "endOffset": 1079
+                },
+                "from": {
+                    "file": "/Users/armando_contreras/src/android/cardboard/Kaleidescope/Kaleidescope/build/intermediates/exploded-aar/Kaleidescope/gvr_android_common/unspecified/res/values-sl/values-sl.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 949,
+                        "endColumn": 134,
+                        "endOffset": 1079
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 1084,
+                    "endColumn": 164,
+                    "endOffset": 1244
+                },
+                "from": {
+                    "file": "/Users/armando_contreras/src/android/cardboard/Kaleidescope/Kaleidescope/build/intermediates/exploded-aar/Kaleidescope/gvr_android_common/unspecified/res/values-sl/values-sl.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 1084,
+                        "endColumn": 164,
+                        "endOffset": 1244
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 1249,
+                    "endColumn": 104,
+                    "endOffset": 1349
+                },
+                "from": {
+                    "file": "/Users/armando_contreras/src/android/cardboard/Kaleidescope/Kaleidescope/build/intermediates/exploded-aar/Kaleidescope/gvr_android_common/unspecified/res/values-sl/values-sl.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1249,
+                        "endColumn": 104,
+                        "endOffset": 1349
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 1354,
+                    "endColumn": 78,
+                    "endOffset": 1428
+                },
+                "from": {
+                    "file": "/Users/armando_contreras/src/android/cardboard/Kaleidescope/Kaleidescope/build/intermediates/exploded-aar/Kaleidescope/gvr_android_common/unspecified/res/values-sl/values-sl.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1354,
+                        "endColumn": 78,
+                        "endOffset": 1428
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1433,
+                    "endColumn": 87,
+                    "endOffset": 1516
+                },
+                "from": {
+                    "file": "/Users/armando_contreras/src/android/cardboard/Kaleidescope/Kaleidescope/build/intermediates/exploded-aar/Kaleidescope/gvr_android_common/unspecified/res/values-sl/values-sl.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1433,
+                        "endColumn": 87,
+                        "endOffset": 1516
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1521,
+                    "endColumn": 99,
+                    "endOffset": 1616
+                },
+                "from": {
+                    "file": "/Users/armando_contreras/src/android/cardboard/Kaleidescope/Kaleidescope/build/intermediates/exploded-aar/Kaleidescope/gvr_android_common/unspecified/res/values-sl/values-sl.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1521,
+                        "endColumn": 99,
+                        "endOffset": 1616
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1621,
+                    "endColumn": 119,
+                    "endOffset": 1736
+                },
+                "from": {
+                    "file": "/Users/armando_contreras/src/android/cardboard/Kaleidescope/Kaleidescope/build/intermediates/exploded-aar/Kaleidescope/gvr_android_common/unspecified/res/values-sl/values-sl.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1621,
+                        "endColumn": 119,
+                        "endOffset": 1736
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1741,
+                    "endColumn": 177,
+                    "endOffset": 1914
+                },
+                "from": {
+                    "file": "/Users/armando_contreras/src/android/cardboard/Kaleidescope/Kaleidescope/build/intermediates/exploded-aar/Kaleidescope/gvr_android_common/unspecified/res/values-sl/values-sl.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1741,
+                        "endColumn": 177,
+                        "endOffset": 1914
+                    }
+                }
+            }
+        ]
+    }
+]

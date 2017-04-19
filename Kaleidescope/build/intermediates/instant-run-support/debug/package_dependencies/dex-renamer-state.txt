@@ -1,0 +1,13 @@
+#Tue Apr 18 19:05:01 CDT 2017
+renamed.3=classes2.dex
+renamed.2=classes3.dex
+renamed.1=classes4.dex
+renamed.0=classes.dex
+base.3=/Users/armando_contreras/src/android/cardboard/Kaleidescope/Kaleidescope/build/intermediates/transforms/dex/debug/folders/1000/2/unity-classes_5d874cd6a44825fe7036345938d74e6286aae0d0
+base.2=/Users/armando_contreras/src/android/cardboard/Kaleidescope/Kaleidescope/build/intermediates/transforms/dex/debug/folders/1000/8/classes_2d908e8c47743b484fbac9f454d3973fc8ac4bc4
+base.1=/Users/armando_contreras/src/android/cardboard/Kaleidescope/Kaleidescope/build/intermediates/transforms/dex/debug/folders/1000/8/classes_324ba1579bd071f4e5fc25191e859893559ae15d
+base.0=/Users/armando_contreras/src/android/cardboard/Kaleidescope/Kaleidescope/build/intermediates/transforms/dex/debug/folders/1000/2/gvr_audio_880a777f11a184ee89bf40a9e48f1e1200a5802f
+file.3=/Users/armando_contreras/src/android/cardboard/Kaleidescope/Kaleidescope/build/intermediates/transforms/dex/debug/folders/1000/2/unity-classes_5d874cd6a44825fe7036345938d74e6286aae0d0/classes.dex
+file.2=/Users/armando_contreras/src/android/cardboard/Kaleidescope/Kaleidescope/build/intermediates/transforms/dex/debug/folders/1000/8/classes_2d908e8c47743b484fbac9f454d3973fc8ac4bc4/classes.dex
+file.1=/Users/armando_contreras/src/android/cardboard/Kaleidescope/Kaleidescope/build/intermediates/transforms/dex/debug/folders/1000/8/classes_324ba1579bd071f4e5fc25191e859893559ae15d/classes.dex
+file.0=/Users/armando_contreras/src/android/cardboard/Kaleidescope/Kaleidescope/build/intermediates/transforms/dex/debug/folders/1000/2/gvr_audio_880a777f11a184ee89bf40a9e48f1e1200a5802f/classes.dex

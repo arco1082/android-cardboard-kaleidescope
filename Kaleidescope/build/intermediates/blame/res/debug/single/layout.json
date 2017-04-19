@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/armando_contreras/src/android/cardboard/Kaleidescope/Kaleidescope/build/intermediates/res/merged/debug/layout/ui_layer.xml",
+        "source": "/Users/armando_contreras/src/android/cardboard/Kaleidescope/gvr_android_common/build/intermediates/bundles/default/res/layout/ui_layer.xml"
+    },
+    {
+        "merged": "/Users/armando_contreras/src/android/cardboard/Kaleidescope/Kaleidescope/build/intermediates/res/merged/debug/layout/ui_layer_with_portrait_support.xml",
+        "source": "/Users/armando_contreras/src/android/cardboard/Kaleidescope/gvr_android_common/build/intermediates/bundles/default/res/layout/ui_layer_with_portrait_support.xml"
+    },
+    {
+        "merged": "/Users/armando_contreras/src/android/cardboard/Kaleidescope/Kaleidescope/build/intermediates/res/merged/debug/layout/back_button.xml",
+        "source": "/Users/armando_contreras/src/android/cardboard/Kaleidescope/gvr_android_common/build/intermediates/bundles/default/res/layout/back_button.xml"
+    },
+    {
+        "merged": "/Users/armando_contreras/src/android/cardboard/Kaleidescope/Kaleidescope/build/intermediates/res/merged/debug/layout/transition_view.xml",
+        "source": "/Users/armando_contreras/src/android/cardboard/Kaleidescope/gvr_android_common/build/intermediates/bundles/default/res/layout/transition_view.xml"
+    }
+]

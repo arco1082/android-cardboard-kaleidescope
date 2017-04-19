@@ -1,0 +1,7 @@
+#Tue Apr 18 19:05:03 CDT 2017
+base.0=/Users/armando_contreras/src/android/cardboard/Kaleidescope/Kaleidescope/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_76ca4683d2e4ca6e7e1e175332e7dbb051ac15ab
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/armando_contreras/src/android/cardboard/Kaleidescope/Kaleidescope/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_1ff39197149a8b00975a6c3c18b08c000fa407fa/classes.dex
+base.1=/Users/armando_contreras/src/android/cardboard/Kaleidescope/Kaleidescope/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_1ff39197149a8b00975a6c3c18b08c000fa407fa
+file.0=/Users/armando_contreras/src/android/cardboard/Kaleidescope/Kaleidescope/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_76ca4683d2e4ca6e7e1e175332e7dbb051ac15ab/classes.dex
